@@ -1,6 +1,8 @@
-# 空蓝 PureBlue Cover
-一款搜狗输入法 for Mac 皮肤，极简风格，使用蓝色作为高亮颜色。
+# 搜狗输入法皮肤
 
-From [PureBlue](https://github.com/intret/PureBlue)
+天空蓝, 嘟嘟粉, 程序黑
+
+## 
+Fork From [空蓝](https://github.com/intret/PureBlue)
 
 
