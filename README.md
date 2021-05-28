@@ -8,4 +8,7 @@
 ## 
 Fork From [空蓝](https://github.com/intret/PureBlue)
 
+## 后注
+现在电脑和手段端全部用苹果自带输入法了
+
 
